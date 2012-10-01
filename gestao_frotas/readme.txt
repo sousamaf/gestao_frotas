@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Projeto: Gest�o de Frotas
 Acad�mico(a) respons�vel: Ludimila
 
@@ -11,6 +12,12 @@ O módulo Quantum KM é voltado para controlar e estabelecer uma  média de gast
 da empresa de acordo com suas saídas e rotas.
 
 
+=======
+Projeto: Gestao de Frotas
+Academico(a) responsavel: Ludimila
+
+Descricao do projeto:
+>>>>>>> Descrição do projeto
 Sistema Web para controle de frotas.
 
 • Tem como função cadastramento dos clientes.
@@ -23,5 +30,9 @@ por motoristas, veículos e rotas,  custos semanais com cada veiculo. Em caso de
 qual motorista estava utilizando o veículo no dia/hora do ocorrido.
 
 Features:
+<<<<<<< HEAD
 - Gest�o de Frotas;
+=======
+- Gestao de Frotas;
+>>>>>>> Descrição do projeto
 
